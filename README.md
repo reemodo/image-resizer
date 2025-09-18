@@ -11,4 +11,5 @@ This project exposes one main endpoint to resize images.
 - `height` (number, required): The desired image height
 
 ### Example
-If you have an image named `fjord.jpg` in the `images/full/` directory:
+In this project there is  have an image named `fjord.jpg` in the `images/full/` directory:
+http://localhost:3000/api/images?filename=fjord&width=200&height=200
